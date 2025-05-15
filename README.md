@@ -1,7 +1,7 @@
 <h1 align="center">프론트엔드 개발자 전세계 레포지토리입니다.👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Loves+Clean+and+Reusable+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;Passionate+about+Front%2FDesign;Loves+Clean+and+Reusable+Code" />
 </p>
 
 <br />
@@ -25,22 +25,23 @@
 
 ### 🔹 **스타일링 & UI**
 ![StyledComponet](https://img.shields.io/badge/-Styledcomponents-CC6699?style=flat&logo=styledcomponents&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### 🔹 **백엔드 & 데이터베이스**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### 🔹 **개발 도구 & 기타**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-![StarUML](https://img.shields.io/badge/-StarUML-000000?style=flat&logo=uml&logoColor=white)
+
 
 
 <br />
@@ -48,7 +49,7 @@
 ## 📊 깃허브 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunSeGue&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
 </p>
 
